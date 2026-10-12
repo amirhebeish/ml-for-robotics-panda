@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+ultimate-utils-master/
+training_trajectories/
+testing_trajectories/
+*.pkl

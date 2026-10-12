@@ -1,0 +1,13 @@
+{
+  "hidden_sizes": [
+    64,
+    128,
+    64
+  ],
+  "lr": 0.0017965430176632073,
+  "batch_size": 256,
+  "epochs": 150,
+  "best_val_loss": 0.004226807504892349,
+  "input_dim": 10,
+  "output_dim": 14
+}
